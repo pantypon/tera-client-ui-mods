@@ -1,0 +1,14 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Yunicorn-Defense-Pop-Up",
+	"category": "client",
+	"description": "Changes your evade, retribution, and block images to a cute yunicorn(LINE) sticker",
+	"author": "Panty",
+	"options": {
+		"guiName": "UI: Yunicorn Defense Pop Up",
+		"niceName": "Yunicorn Defense Pop Up"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Yunicorn%20Defense%20Pop%20Up/"
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Pink-Hearts-Crosshair",
+	"category": "client",
+	"description": "Adds pastel pink hearts all over your crosshair",
+	"author": "Panty",
+	"options": {
+		"guiName": "UI: Pink Hearts Crosshair",
+		"niceName": "Pink Hearts Crosshair"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Hearts%20Crosshair/"
+	]
+}

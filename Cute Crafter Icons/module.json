@@ -1,0 +1,14 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Cute-Crafter-Icons",
+	"category": "client",
+	"description": "Changes mastercraft icons into potted plants, cherries, hearts, cupcakes, and pink crosses",
+	"author": "Panty",
+	"options": {
+		"guiName": "UI: Cute Crafter Icons",
+		"niceName": "Cute Crafter Icons"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Cute%20Crafter%20Icons/"
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Pink-Party-Member-HP-Bar",
+	"category": "client",
+	"description": "Changes the blue HP bar over your teammate's head to pink",
+	"author": "Panty",
+	"options": {
+		"guiName": "UI: Pink Party Member HP Bar",
+		"niceName": "Pink Party Member HP Bar"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Party%20Member%20HP%20Bar/"
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Pink-Heart-HP-MP",
+	"category": "client",
+	"description": "Removes HP/MP background, recolors HP to pink and MP to blue, makes laurels more simplified, changes the background of class icon to a cute magical girl pink heart",
+	"author": "Panty",
+	"options": {
+		"guiName": "UI: Pink Heart HP-MP",
+		"niceName": "Pink Heart HP-MP"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Heart%20HP-MP/"
+	]
+}

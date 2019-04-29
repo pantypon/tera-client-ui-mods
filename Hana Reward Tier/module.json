@@ -1,0 +1,14 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Hana-Reward-Tier",
+	"category": "client",
+	"description": "Changes reward tier icon to a pink flower and makes the elite/founder/event symbols more minimalist",
+	"author": "Panty",
+	"options": {
+		"guiName": "UI: Hana Reward Tier",
+		"niceName": "Hana Reward Tier"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Hana%20Reward%20Tier/"
+	]
+}
