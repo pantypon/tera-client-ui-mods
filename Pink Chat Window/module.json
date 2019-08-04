@@ -1,0 +1,14 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Pink-Chat-Window",
+	"category": "client",
+	"description": "Chat window is now pastel pink",
+	"author": "Panty",
+	"options": {
+		"guiName": "UI: Pink Chat Window",
+		"niceName": "Pink Chat Window"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Chat%20Window/"
+	]
+}
